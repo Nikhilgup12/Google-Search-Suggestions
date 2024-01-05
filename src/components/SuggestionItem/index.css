@@ -1,0 +1,14 @@
+.search-list {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+.search-heading {
+  font-size: 14px;
+  color: #475569;
+}
+.arrow-icon {
+  height: 20px;
+  width: 20px;
+  margin-top: px;
+}
